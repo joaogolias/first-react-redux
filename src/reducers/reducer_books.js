@@ -1,5 +1,4 @@
-export default function(state, action) {
-    console.log("action in reducer 1: ", action)
+export default function(state = null, action) {
     return [
         { title: 'Harry Potter' },
 
