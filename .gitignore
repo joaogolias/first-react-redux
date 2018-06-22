@@ -1,0 +1,19 @@
+# package directories
+node_modules
+
+# build directories
+.webpack
+
+# ide and editor directories
+.vscode
+
+# Locks files remove test
+package-lock.json
+
+.DS_Store
+
+\.build/
+
+*.iml
+
+\.idea/
